@@ -1,2 +1,4 @@
 This is file 1.
+Added a new line.
 this line will conflict.
+
